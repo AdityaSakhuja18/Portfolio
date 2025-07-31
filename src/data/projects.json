@@ -1,0 +1,30 @@
+[
+  {
+    "title": "CryptoPrice Tracker",
+    "imageSrc": "projects/crypto.jpg",
+    "description": "This web-based platform lets users track real-time data for over 100 cryptocurrencies, including Bitcoin and Ethereum. It features a user-friendly interface with live price updates, market trends, and interactive visuals powered by the CoinGecko API.",
+    "skills": ["React", "Javascipt", "HTML", "CSS"],
+    "source": "https://github.com/AdityaSakhuja18/CryptoPrice.git"
+  },
+  {
+    "title": "News App",
+    "imageSrc": "projects/newsapp.jpg",
+    "description": "This is a modern React-based News Application built with Vite, designed to fetch and display the latest headlines using the NewsAPI. The app features a clean, responsive interface and categorizes news articles for a better user experience",
+    "skills": ["React", "Bootstrap", "Javascipt", "HTML"],
+    "source": "https://github.com/AdityaSakhuja18/News-app.git"
+  },
+  {
+    "title": "Today Tasks",
+    "imageSrc": "projects/todo.jpg",
+    "description": "This is a responsive web-based task management application that lets users create, edit, delete, and prioritize tasks with ease. It features real-time updates and a drag-and-drop interface for intuitive task handling. Built with React and Tailwind CSS, it ensures seamless performance across all devices.",
+    "skills": ["React", "Javascript", "HTML", "Tailwind CSS"],
+    "source": "https://github.com/AdityaSakhuja18/Todaytasks.git"
+  },
+  {
+    "title": "Coffee Shop",
+    "imageSrc": "projects/coffee.jpg",
+    "description": "A visually appealing and responsive coffee shop website featuring a modern UI with smooth navigation, animated sections, and a stylish layout to showcase menu items and services. Designed to simulate a real-world café landing page, it delivers a seamless experience across all devices.",
+    "skills": ["Javascript", "HTML", "CSS"],
+    "source": "https://github.com/AdityaSakhuja18/CoffeeShop.git"
+  }
+]

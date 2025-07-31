@@ -1,0 +1,46 @@
+[
+  {
+    "title": "Java",
+    "imageSrc": "skills/java.png"
+  },
+  {
+    "title": "Javascript",
+    "imageSrc": "skills/javascript.png"
+  },
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Bootstrap",
+    "imageSrc": "skills/bootstrap.png"
+  },
+  {
+    "title": "Tailwind-Css",
+    "imageSrc": "skills/tailwind-css.png"
+  },
+  {
+    "title": "Github",
+    "imageSrc": "skills/github.png"
+  },
+  {
+    "title": "Flexbox",
+    "imageSrc": "skills/flexbox.png"
+  },
+  {
+    "title": "SQL",
+    "imageSrc": "skills/sql.png"
+  }
+]
+
+
+
+
