@@ -27,7 +27,7 @@ export const Hero = () => {
           </a>
           <a
             className={styles.resumeBtn}
-            href="Aditya_sakhuja_Resume.pdf"
+            href="dist/Aditya_sakhuja_Resume.pdf"
             download="Aditya_sakhuja_Resume.pdf"
           >
             My Resume
